@@ -10,11 +10,11 @@ El sistema permite la creación, inserción, recorrido y visualización de nodos
 
 ## Autor
 
-Nombre: Ricardo Marín Herrera
-Universidad: Universidad de Manizales
-Programa: Ingeniería de Sistemas Virtual
-Asignatura: Programación III
-Proyecto: Integrador Árboles Binarios MVC
+- Nombre: Ricardo Marín Herrera
+- Universidad: Universidad de Manizales
+- Programa: Ingeniería de Sistemas Virtual
+- Asignatura: Programación III
+- Proyecto: Integrador Árboles Binarios MVC
 
 
 ### Responsabilidades:

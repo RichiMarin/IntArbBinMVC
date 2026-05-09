@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IntArbBinMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+143e5f2e8220f7e117c63cad5a761d19e82e7e12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+984daabd2fda86fc324dd31cd62eb5f77570af70")]
 [assembly: System.Reflection.AssemblyProductAttribute("IntArbBinMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IntArbBinMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
